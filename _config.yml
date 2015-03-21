@@ -72,6 +72,8 @@ duoshuo:
   short_name: wustrive ## duoshuo short name.
 highlight:
   enable: true
+  line_number: true
+  tab_replace:
 
 #### Share button
 jiathis:
